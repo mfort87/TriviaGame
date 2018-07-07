@@ -1,0 +1,12 @@
+body{
+    background: url("../images/norwegianrose.png");
+    font-family: 'Chela One', cursive;
+    font-size: 20px;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center;
+	height: 100%;
+	width: 700px;
+}
